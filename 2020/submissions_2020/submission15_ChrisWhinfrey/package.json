@@ -10,7 +10,7 @@
     "@types/mocha": "^8.0.3",
     "@types/node": "^14.14.6",
     "chai": "^4.2.0",
-    "ethereum-waffle": "^3.1.2",
+    "ethereum-waffle": "^4.0.9",
     "ethers": "^5.0.19",
     "hardhat": "^2.0.2",
     "ts-node": "^9.0.0",
